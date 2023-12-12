@@ -9,7 +9,7 @@ import Sidebar from "./Sidebar";
 
 import "./style.css";
 
-const server = "http://localhost:5000";
+const server = "http://test1-env.eba-nqjadpze.ap-south-1.elasticbeanstalk.com/";
 const connectionOptions = {
   "force new connection": true,
   reconnectionAttempts: "Infinity",
